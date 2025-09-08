@@ -53,7 +53,7 @@ I am a passionate **Flutter Developer** dedicated to building sleek, user-friend
 **[DailyDime](#)**  
 📱 A full-featured Flutter app for [brief description].  
 
-**[Strimix](#)**  
+**[Strimix](https://github.com/daxa-khunti/Strimix)**  
 📱 A streaming/social app built with Flutter.  
 
 **[WeatherApp](https://github.com/daxa-khunti/weatherApp)**  
