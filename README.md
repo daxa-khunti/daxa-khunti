@@ -50,7 +50,7 @@ I am a passionate **Flutter Developer** dedicated to building sleek, user-friend
 
 ### ✅ Completed Projects
 
-**[DailyDime](#)**  
+**[DailyDime](https://github.com/daxa-khunti/DailyDime)**  
 📱 A full-featured Flutter app for [brief description].  
 
 **[Strimix](https://github.com/daxa-khunti/Strimix)**  
