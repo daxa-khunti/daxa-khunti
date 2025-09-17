@@ -64,10 +64,10 @@ I am a passionate **Flutter Developer** dedicated to building sleek, user-friend
 
 ### 🎨 UI-Only Projects
 
-**VChat**  
+**[VChat App](https://github.com/daxa-khunti/VChat)** 
 🎨 Designed a modern chat app UI.  
 
-**Bloom**  
+**[Bloom App](https://github.com/daxa-khunti/Bloom)**  
 🎨 Designed the UI for a lifestyle/utility app.  
 
 ### 🚧 Ongoing Project
